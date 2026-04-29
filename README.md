@@ -11,8 +11,7 @@ How to effectively prepare for Python programming.
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/subhash-kongala-ab7b22289/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/</a><a
-</a>
+<a href="https://www.linkedin.com/in/vasu-kumar-palani/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a 
 <br><br>
 
 
