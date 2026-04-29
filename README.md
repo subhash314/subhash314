@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently seeking the Oppurtunities and <br>- 🌱 I’m currently learning ... Trending Technologies. <br>- 👯  I'm very much perfect in Python programming, learned everything from basics to advanced concepts. I specialize in doing python based projects,it gives me more energy to do more. it ensures effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
+- 🔭 I’m currently seeking the Oppurtunities  <br>- 🌱 I’m currently learning ... Trending Technologies. <br>- 👯  I'm very much perfect in Python programming, learned everything from basics to advanced concepts. I specialize in doing python based projects,it gives me more energy to do more. it ensures effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
 Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming.
